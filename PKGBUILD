@@ -1,5 +1,5 @@
 pkgname="grub-theme-axos"
-pkgver="1.0"
+pkgver="2.0"
 pkgrel="1"
 pkgdesc="Grub theme for AxOS"
 arch=("x86_64")
